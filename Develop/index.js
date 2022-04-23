@@ -55,7 +55,7 @@ const questions = [
     {
         type: 'checkbox',
         name: 'languages',
-        message: 'What did you this project with? (Check all that apply)',
+        message: 'What language did you use for the project? (Check all that apply)',
         choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node']
       },
       {

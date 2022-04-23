@@ -4,8 +4,8 @@ function generateMarkdown(data) {
 
 
   return `
-  #${data.title}
-  ${data.description}
+  # ${data.title}
+ 
   # Table of Contents 
   * [About Me](#about)
   * [Project Name](#title)
